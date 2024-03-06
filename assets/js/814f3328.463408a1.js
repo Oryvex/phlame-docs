@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_api=self.webpackChunktest_api||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome To Phlame","permalink":"/blog/welcome","unlisted":false}]}')}}]);
