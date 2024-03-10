@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Phlame Blog</title>
+        <link>https://phlame.oryvex.in/blog</link>
+        <description>Phlame Blog</description>
+        <lastBuildDate>Wed, 06 Mar 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome To Phlame]]></title>
+            <link>https://phlame.oryvex.in/blog/welcome</link>
+            <guid>https://phlame.oryvex.in/blog/welcome</guid>
+            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introducing Phlame]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introducing-phlame">Introducing Phlame<a href="https://phlame.oryvex.in/blog/welcome#introducing-phlame" class="hash-link" aria-label="Direct link to Introducing Phlame" title="Direct link to Introducing Phlame">​</a></h2>
+<p>I'm excited to announce the launch of Phlame, a new micro-framework designed to streamline and simplify the development of APIs in PHP.</p>
+<p>As the Co-Founder and CEO of TheCrashersTeam, I've seen firsthand the challenges and complexities involved in building robust and scalable APIs. Phlame was born out of a desire to create a framework that empowers developers to focus on core functionalities and deliver exceptional APIs with minimal overhead.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-phlame">What is Phlame?<a href="https://phlame.oryvex.in/blog/welcome#what-is-phlame" class="hash-link" aria-label="Direct link to What is Phlame?" title="Direct link to What is Phlame?">​</a></h3>
+<p>Phlame is a lightweight and flexible micro-framework specifically tailored for building APIs in PHP. It offers a clean and intuitive syntax, making it accessible to developers of all experience levels. Here are some of its key features:</p>
+<ul>
+<li>Simple Routing: Define endpoints with ease using clear and concise syntax.</li>
+<li>Built-in API functionalities: Handle authentication, parameter validation, and response formatting efficiently.</li>
+<li>Modular design: Extend Phlame's capabilities through custom segments and functionalities.</li>
+<li>Focus on performance: Phlame is built for efficiency, ensuring your APIs deliver lightning-fast responses.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="why-use-phlame">Why use Phlame?<a href="https://phlame.oryvex.in/blog/welcome#why-use-phlame" class="hash-link" aria-label="Direct link to Why use Phlame?" title="Direct link to Why use Phlame?">​</a></h3>
+<ul>
+<li>Reduce development time: Phlame's streamlined approach and pre-built functionalities help you code faster and launch APIs quicker.</li>
+<li>Improve code maintainability: The clean and well-structured code base makes it easy to understand, modify, and extend your API logic.</li>
+<li>Enhance developer experience: Phlame provides a smooth and intuitive development experience, allowing developers to focus on creating innovative API features.</li>
+<li>Getting Started with Phlame</li>
+</ul>
+<p>We are actively developing comprehensive documentation and tutorials to guide you through the setup and usage of Phlame. In the meantime, you can explore the source code on GitHub: <a href="https://github.com/Oryvex/Phlame" target="_blank" rel="noopener noreferrer">https://github.com/Oryvex/Phlame</a> .</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="the-future-of-phlame">The Future of Phlame<a href="https://phlame.oryvex.in/blog/welcome#the-future-of-phlame" class="hash-link" aria-label="Direct link to The Future of Phlame" title="Direct link to The Future of Phlame">​</a></h3>
+<p>Phlame is currently in its initial stages of development, and we have a clear vision for its future. We plan to continuously improve the framework by:</p>
+<ul>
+<li>Adding more built-in functionalities: Enhancing Phlame's capabilities to support various API development needs.</li>
+<li>Building a strong community: Fostering a community of developers who can contribute to and benefit from Phlame's growth.</li>
+</ul>
+<p>I believe that Phlame has the potential to be an invaluable tool for building powerful and efficient APIs in PHP. We encourage you to try it out and share your feedback as we continue to develop and refine the framework.</p>
+<p>Let's build amazing APIs together!</p>
+<p>Sincerely,</p>
+<p><strong>Kanish Ravikumar</strong></p>
+<p>Co-Founder &amp; CEO, TheCrashersTeam</p>]]></content:encoded>
+            <category>introduction</category>
+            <category>details</category>
+        </item>
+    </channel>
+</rss>
